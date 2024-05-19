@@ -1,4 +1,3 @@
-![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm Santiago Batnoska</h1>
 <h3 align="center">A passionate FullStack Developer from Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f7dbe9ca2d31f59716187a69431129305a1e8676&rid=giphy.gif&ct=g">
