@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **an IT team**
 
-- 💬 Ask me about **react native, axios and express**
-
 - 📫 How to reach me **batnoskasantiago@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
